@@ -4,7 +4,7 @@
 This project answers a few business-related questions and demonstrates the performance of Airbnb across 6 different neighborhoods in the US.
 
 
-Data set- Airbnb Open Dataset available on [Kaggle]([https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata])
+Data set- Airbnb Open Dataset available on [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 
 Insights -
 1.  What is the total number of Airbnb operating in 6 neighborhoods - Manhattan, Brooklyn, Queens, Bronx, and Staten Island?
